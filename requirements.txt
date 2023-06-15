@@ -1,0 +1,7 @@
+pip install transformers
+pip install datasets
+pip install librosa
+pip install huggingsound
+pip install torch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 torchtext==0.12.0
+pip install --upgrade pyannote.audio
+pip install -qq speechbrain==0.5.12
