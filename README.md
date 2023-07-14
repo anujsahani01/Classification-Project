@@ -26,6 +26,8 @@ The objective of this project is to develop a system that performs intent and en
 
 * **qanastek/XLMRoberta-Alexa-Intents-Classification:** This model is trained on a large corpus of text data with labeled intents. It can classify the extracted text into different intent categories, providing insight into the purpose behind the spoken words.
 
+* **huggingface-course/bert-finetuned-ner:** This model is trained on extensive text data with labeled entities. It performs entity recognition and classification, identifying and categorizing various entities present in the extracted text.
+
 By utilizing these pretrained models and combining the different stages, the system can accurately extract intents and entities from audio files. The resulting JSON file provides a structured representation of the audio data, along with the associated intents and entities. This enables further analysis and processing of the audio content in various domains, such as voice assistants, call center analytics, and automated transcription services.
 
 
